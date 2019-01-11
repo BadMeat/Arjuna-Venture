@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: c960f35dc0cd27d47adff408d916f1f9
+timeCreated: 1452669715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kaki Ajah_0
+    21300002: Kaki Ajah_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kaki Ajah_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 348
+        width: 174
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 100}
+        - {x: -87, y: -100}
+        - {x: 87, y: -100}
+        - {x: 87, y: 100}
+    - name: Kaki Ajah_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 282
+      alignment: 9
+      pivot: {x: 0.44291526, y: 0.80615234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.85986, y: -153.33496}
+        - {x: 83.85986, y: -148.33496}
+        - {x: 87.85986, y: -31.33496}
+        - {x: 91.85986, y: 3.665039}
+        - {x: 78.85986, y: 26.66504}
+        - {x: 42.859863, y: 51.66504}
+        - {x: 34.859863, y: 54.66504}
+        - {x: -40.140137, y: 54.66504}
+        - {x: -67.14014, y: 42.66504}
+        - {x: -88.14014, y: 14.665039}
+        - {x: -88.14014, y: -26.33496}
+        - {x: -87.14014, y: -29.33496}
+        - {x: -84.14014, y: -34.33496}
+        - {x: -87.14014, y: -207.33496}
+        - {x: -73.14014, y: -227.33496}
+        - {x: 99.85986, y: -227.33496}
+        - {x: 110.85986, y: -221.33496}
+        - {x: 110.85986, y: -163.33496}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
